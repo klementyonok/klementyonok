@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir Klementyonok</h1>
-<h3 align="center">A novice backend developer from Belarus</h3>
+<h3 align="center">A Python developer</h3>
 
 - 🔭 I’m currently working on **a graduation project "Automated workplace of a labor protection specialist and its software support"**
 
