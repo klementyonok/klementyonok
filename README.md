@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir Klementyonok</h1>
-<h3 align="center">A Python developer</h3>
+<h3 align="center">Python developer</h3>
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/klementyonok)**
 
