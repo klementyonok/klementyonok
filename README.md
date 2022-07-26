@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir Klementyonok</h1>
 <h3 align="center">A Python developer</h3>
 
-- 🔭 I’m currently working on **a graduation project "Automated workplace of a labor protection specialist and its software support"**
-
-- 🌱 I’m currently learning at the **[Institute of IT & Business Administration](https://www.instituteiba.by/en/)**
-
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/klementyonok)**
 
 - 📫 How to reach me **[Telegram](https://t.me/klementyonok)**
